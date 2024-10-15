@@ -25,13 +25,13 @@ Tenho um interesse especial por machine learning e redes neurais (Deep Learning)
 ### Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/AWS-1E90FF?style=for-the-badge&logo=&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS-1E90FF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Maven Projects](https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=maven&logoColor=white)
+![Maven Projects](https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-9400D3?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-9400D3?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### Social
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-FFFAFA?style=for-the-badge&logo=gitbook&logoColor=black)](https://web.dio.me/users/guimatos070?tab=achievements)
