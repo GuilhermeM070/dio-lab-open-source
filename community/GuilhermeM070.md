@@ -8,6 +8,14 @@ Desenvolvedor apaixonado por tecnologia, com experiência em backend (Java, Pyth
 
 Tenho um interesse especial por machine learning e redes neurais (Deep Learning), aplicando essas tecnologias em projetos que resolvem problemas reais. Além disso, sou freelancer, entregando soluções de software personalizadas, com foco em performance, segurança e inovação.
 
+## My Dev Journey 💻
+
+Full Stack Developer | Computer Engineer | AI and Cybersecurity
+
+A developer passionate about technology, with experience in backend (Java, Python) and frontend (JavaScript) and knowledge in frameworks such as Spring Boot, Spring MVC. I work with MongoDB, MySQL and AWS databases. In addition to skills in Git, GitHub, Maven projects, and Design Patterns.
+
+I have a special interest in machine learning and neural networks (Deep Learning), applying these technologies in projects that solve real problems. In addition, I am a freelancer, delivering customized software solutions, with a focus on performance, security and innovation.
+
 ### Linguagens de Marcação e Estilo
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
